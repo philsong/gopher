@@ -10,6 +10,7 @@ go get -u github.com/jimmykuu/webhelpers
 go get -u github.com/qiniu/bytes
 go get -u github.com/qiniu/rpc
 go get -u github.com/qiniu/api
+go get -u github.com/jimmykuu/wtforms
 
 set GOPATH=%OLDGOPATH%
 
